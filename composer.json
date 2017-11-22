@@ -1,5 +1,5 @@
 {
-  "name": "bryanjhv/slim-session",
+  "name": "anders/slim-session",
   "description": "Session middleware and helper for Slim framework 3.",
   "type": "library",
   "keywords": [
@@ -10,14 +10,6 @@
   ],
   "homepage": "https://github.com/bryanjhv/slim-session",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Bryan Horna",
-      "email": "bryanjhv@gmail.com",
-      "homepage": "https://bryanjhv.github.io",
-      "role": "developer"
-    }
-  ],
   "support": {
     "source": "https://github.com/bryanjhv/slim-session.git"
   },
